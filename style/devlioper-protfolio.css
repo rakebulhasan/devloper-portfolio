@@ -13,6 +13,7 @@ font-size: 45px;
 }
 nav ul{
     display: flex;
+    align-items: center;
 }
 nav li{
     list-style: none;
@@ -21,3 +22,32 @@ nav li{
 .text-primary{
     color:#FD6E0A;
 }
+.btn-primary{
+    color: #ffffff;
+    border: 0;
+    padding: 18px 35px;
+    font-weight: 700px;
+    font-size: 20px;
+    height: 64px;
+    background: #FD6E0A;
+    border-radius: 5px;
+}
+.banner{
+     display: flex;
+     align-items: center;
+     margin: 0px 200px;
+}
+.banner-tittle{
+    font-weight:700px ;
+    font-size: 65px;
+}
+.banner-sub-tittle{
+    font-weight:600px ;
+    font-size: 45px;
+}
+.banner-img{
+    width: 584;
+    height: 676px;
+
+}
+   
