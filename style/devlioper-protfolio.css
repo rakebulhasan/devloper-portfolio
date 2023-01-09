@@ -2,6 +2,12 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+.header{
+    background-color: #FFF8F3;
+    background-image: url("../images/header_bg.png"),url("../images/developer.png");
+    background-repeat: no-repeat;
+    background-position:bottom right,left;
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -35,11 +41,14 @@ nav li{
 .banner{
      display: flex;
      align-items: center;
-     margin: 0px 200px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     margin-right: 50px;
+     margin-left: 200px;
 }
 .banner-tittle{
     font-weight:700px ;
-    font-size: 65px;
+    font-size: 85px;
     margin-bottom: 20px;
 }
 .banner-sub-tittle{
