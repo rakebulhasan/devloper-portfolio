@@ -78,4 +78,18 @@ padding: 130px 150px;
 .section-description{
     color: #757575;
     margin-bottom: 30px;
+    text-align: center;
+}
+.about-info-container{
+display: flex;
+justify-content: space-around;
+}
+.info-tittle{
+font-size: 20px;
+color: #757575;
+}
+.info-description{
+font-weight: 700px;
+font-size: 20px;
+color: #454545;
 }
