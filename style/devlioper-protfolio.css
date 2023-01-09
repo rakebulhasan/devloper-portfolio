@@ -40,14 +40,16 @@ nav li{
 .banner-tittle{
     font-weight:700px ;
     font-size: 65px;
+    margin-bottom: 20px;
 }
 .banner-sub-tittle{
     font-weight:600px ;
     font-size: 45px;
+    margin-bottom: 20px;
 }
-.banner-img{
-    width: 584;
-    height: 676px;
-
+.banner-description {
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
 }
    
