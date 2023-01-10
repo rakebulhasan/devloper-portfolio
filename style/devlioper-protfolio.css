@@ -2,12 +2,16 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+section{
+margin-top: 130px;
+}
 .header{
     background-color: #FFF8F3;
     background-image: url("../images/header_bg.png"),url("../images/developer.png");
     background-repeat: no-repeat;
     background-position:bottom right,left;
 }
+/* banner */
 nav{
     display: flex;
     justify-content: space-between;
@@ -61,6 +65,7 @@ nav li{
     font-size: 18px;
     margin-bottom: 30px;
 }
+/* about */
 main{
     max-width: 1140px;
     margin: 0 auto;
@@ -93,9 +98,7 @@ font-weight: 700px;
 font-size: 20px;
 color: #454545;
 }
-.What-i-do{
-margin-top: 130px;
-}
+
 .skill-container{
     display: flex;
     gap: 24px;
