@@ -146,6 +146,11 @@ color: #454545;
     font-size: 20px;
    color: #757575;
 }
-.description{
 
+.Resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
+.contact .section-tittle{
+    text-align: left;
 }
